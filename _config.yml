@@ -1,22 +1,22 @@
 title:            ShihabtheDataGuy
 description:      Musings of a tyro in Data Analysis and Design
-disqus_shortname: disqus_avYQhOOAse
+disqus_shortname: MSUROCKS
 reading_time:     true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:
+url: http://www.shihabthedataguy.com
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
-  email:          you@email.com
+  name:           Shihab Uddin
+  avatar:         icon.jpeg
+  bio:            "I am a dreamer and i work hard to fulfill my dreams."
+  email:           shihabu@outlook.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
+  twitter:   http://twitter.com/msuworld     
+  facebook:  https://www.facebook.com/msuworld     
+  github:  https://github.com/msuworld       
   stackexchange:  
   linkedin:       
   instagram:      
